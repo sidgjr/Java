@@ -1,0 +1,56 @@
+↪ Tecnologias
+
+    ↪ Java
+
+    ↪ Spring Boot
+
+    ↪ Java CDI
+
+    ↪ Tomcat
+
+    ↪ Maven
+
+    ↪ H2
+
+    ↪ Sobre: Ferramentas comerciais
+
+    ↪ Apps:
+
+        ↪ Postman
+
+↪ Profissionalismo
+
+    ↪ Fundamentos
+
+        ↪ Lógica de programação (Mais básico)
+
+            ↪ Estrutura de dados
+
+            ↪ Estruturas de controle
+
+            ↪ Orientação a objetos
+
+        ↪ Banco de dados
+
+        ↪ Análise & Design de sistemas
+
+    ↪ Comercial
+
+        ↪ Back end
+
+        ↪ Web
+
+        ↪ Mobile
+
+        ↪ Desktop
+
+↪ Setup 
+
+↪ Lógica de programação
+
+    ↪ 
+
+
+↪ Fontes
+
+    ↪ https://www.udemy.com/course/java-curso-completo/?couponCode=24T5FS31824
